@@ -38,3 +38,21 @@
     font-family: helvetica,sans-serif;
     
 }
+table{
+    font-family:Helvetica,sans-serif;
+    border-collapse: collapse; border-width: 1px;
+    border-style:solid;
+    border-color: orange;
+    font-size: 14px;
+
+
+    
+}
+th{
+    font-weight: 800;
+    background-color: orangered;
+    color: #ffffff;
+    font-family: serif;
+    font-size: 17px;
+    border-collapse: separate;
+}
